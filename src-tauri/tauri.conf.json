@@ -1,0 +1,45 @@
+{
+  "build": {
+    "beforeDevCommand": "pnpm dev",
+    "beforeBuildCommand": "pnpm build",
+    "devPath": "http://localhost:24201",
+    "distDir": "../dist"
+  },
+  "package": {
+    "productName": "Claude Desktop",
+    "version": "1.0.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "shell": {
+        "all": false,
+        "open": true
+      }
+    },
+    "systemTray": {
+      "iconPath": "icons/logo.ico",
+      "iconAsTemplate": true
+    },
+    "windows": [
+      {
+        "url": "https://claude.ai/",
+        "title": "Claude Desktop",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "security": {
+      "csp": null
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "com.snowraincloud.tauri.claude.dektop",
+      "icon": [
+ 
+        "icons/logo.ico"
+      ]
+    }
+  }
+}
