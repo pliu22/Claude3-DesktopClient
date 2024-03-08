@@ -21,7 +21,7 @@ The tray functionality of the Claude3 Desktop Client is a major highlight. It al
 
 ## Installation and Usage
 
-1. Download the installation package for your operating system from the [release page](https://github.com/pliu22/claude-desktopclient/releases).
+1. Download the installation package for your operating system from the [release page]([https://github.com/pliu22/claude-desktopclient/releases](https://github.com/pliu22/Claude3-DesktopClient/releases/tag/Claude3)).
 2. Run the installer and follow the prompts to complete the installation process.
 3. Launch the Claude3 Desktop Client application.
 4. Start interacting with Claude3 and enjoy the fun of intelligent conversation and collaboration!
@@ -63,7 +63,7 @@ Claude3桌面客户端的托盘功能是一大亮点。它让您可以在不打�
 
 ## 安装和使用
 
-1. 从 [发布页面](https://github.com/pliu22/claude-desktopclient/releases) 下载适用于您操作系统的安装包。
+1. 从 [发布页面]([https://github.com/pliu22/claude-desktopclient/releases](https://github.com/pliu22/Claude3-DesktopClient/releases/tag/Claude3)) 下载适用于您操作系统的安装包。
 2. 运行安装程序，按照提示完成安装过程。
 3. 启动 Claude3桌面客户端应用程序。
 4. 开始与 Claude3进行交互，享受智能对话和协作的乐趣！
